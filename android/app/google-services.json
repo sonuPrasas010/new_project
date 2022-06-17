@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "998124920786",
+    "project_id": "tor-movie-d52b6",
+    "storage_bucket": "tor-movie-d52b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998124920786:android:091f3f6ca7b23b20a9320b",
+        "android_client_info": {
+          "package_name": "com.samos.tormoviepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998124920786-1o5jmn39quho3jkppp8tjrku3bvsebku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbp66_tbFY9tyTQ-h9COzk9UbivQ_DimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998124920786-1o5jmn39quho3jkppp8tjrku3bvsebku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998124920786:android:f9274ec78099ca62a9320b",
+        "android_client_info": {
+          "package_name": "com.samos.yts_movie_official"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998124920786-1o5jmn39quho3jkppp8tjrku3bvsebku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbp66_tbFY9tyTQ-h9COzk9UbivQ_DimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998124920786-1o5jmn39quho3jkppp8tjrku3bvsebku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
